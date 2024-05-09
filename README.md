@@ -1,0 +1,1 @@
+# Analyse-de-lesp-rance-de-vie-par-r-gression-lin-aire-multivari-e
